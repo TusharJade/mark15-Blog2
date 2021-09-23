@@ -37,3 +37,16 @@ body {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.footer .link {
+    color:#C7D2FE
+    ;
+    font-weight: bold;
+    font-size:large;
+}
+
+.footer {
+    padding: 2rem 1rem;
+    border-bottom-right-radius: 1rem;
+    text-align: center;
+}
