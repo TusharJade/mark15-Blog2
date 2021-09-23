@@ -10,6 +10,7 @@ body {
 
 .image {
     padding: 2rem;
+    max-width: 350px;
 }
 
 .text {
