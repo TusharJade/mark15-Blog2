@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200;400&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
-    font-family: 'Yaldevi', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .center {
@@ -11,4 +10,9 @@ body {
 
 .image {
     padding: 2rem;
+}
+
+.text {
+    max-width: 600px;
+    margin: auto;
 }
