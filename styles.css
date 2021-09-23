@@ -31,7 +31,7 @@ body {
 
 .link {
    text-decoration: none;
-   padding: 2rem 2rem;
+   padding:1rem 1rem;
 }
 
 .footer ul {
@@ -49,4 +49,8 @@ body {
     padding: 2rem 1rem;
     border-bottom-right-radius: 1rem;
     text-align: center;
+}
+
+.padding {
+    padding-bottom: 2.5rem;
 }
