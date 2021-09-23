@@ -10,11 +10,30 @@ body {
 
 .image {
     padding: 2rem;
-    max-width: 300px;
+    max-width: 320px;
    
 }
 
 .text {
     max-width: 600px;
     margin: auto;
+}
+
+ 
+.list-non-bullet {
+    list-style: none ;
+}
+
+.list {
+    display: inline;
+    padding: 0rem 1rem;
+}
+
+.link {
+   text-decoration: none;
+   padding: 0.5rem 1.5rem;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
 }
